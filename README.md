@@ -107,7 +107,7 @@ A minimal AI agent built from scratch — no frameworks, no AI-assisted code —
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanRana09&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=AryanRana09&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
