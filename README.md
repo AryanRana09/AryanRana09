@@ -1,7 +1,12 @@
-<h1 align="center">Hi, I'm Aryan Rana 👋</h1>
+<h1 align="center">
+  Hi, I'm Aryan Rana&nbsp;
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="waving hand"/>
+</h1>
 
 <p align="center">
-  <b>Backend Developer</b> &nbsp;•&nbsp; <b>AI / LLM Systems</b> &nbsp;•&nbsp; <b>Django</b>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=4A90D9&center=true&vCenter=true&width=600&lines=Backend+Developer;AI+%2F+LLM+Systems+Builder;Django+%7C+REST+APIs;Async+Pipelines+%26+RAG+Knowledge+Bases" alt="Typing animation"/>
+  </a>
 </p>
 
 <p align="center">
@@ -108,6 +113,18 @@ A minimal AI agent built from scratch — no frameworks, no AI-assisted code —
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AryanRana09&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AryanRana09/AryanRana09/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AryanRana09/AryanRana09/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/AryanRana09/AryanRana09/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
