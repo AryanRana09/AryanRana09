@@ -104,19 +104,6 @@ A minimal AI agent built from scratch — no frameworks, no AI-assisted code —
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AryanRana09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aryan's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanRana09&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AryanRana09&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
